@@ -1,0 +1,12 @@
+Total words in IF.txt: 287
+Total words in AlwaysRememberUsThisWay.txt: 223
+Grand total words: 510
+Top 3 words in IF.txt:
+you: 14
+If: 13
+can: 12
+Top 3 words in AlwaysRememberUsThisWay.txt (after handling contractions):
+I: 15
+the: 12
+t: 9
+IP Address: 172.17.0.3
